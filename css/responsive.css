@@ -267,7 +267,7 @@
         margin-top: 20px;
     }
     ul.social_icon {
-      padding-right: 7rem;
+      padding-right: 9rem;
         margin: 2rem auto;
     }
     .margin_boot {
@@ -312,9 +312,6 @@
         width: 100%;
         margin-right: 20px;
         z-index: 999;
-    }
-    .send_btn{
-        margin-left: 1.2rem;
     }
     .sub_btn{
         margin: 2rem auto auto;
